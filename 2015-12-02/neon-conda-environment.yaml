@@ -64,7 +64,6 @@ dependencies:
   - lazy-object-proxy==1.2.1
   - logilab-common==1.1.0
   - mccabe==0.3.1
-  - neon (/Users/wleepang/Documents/meetup/sd-deep-learn/neon)==1.1.3
   - pep8==1.5.7
   - pillow==2.9.0
   - posix-ipc==1.0.0
